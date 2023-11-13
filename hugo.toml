@@ -1,0 +1,4 @@
+baseURL = 'https://gitfit.xyz/'
+languageCode = 'en-us'
+title = 'GitFit'
+theme = 'lugo'
